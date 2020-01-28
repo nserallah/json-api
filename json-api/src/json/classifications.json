@@ -1,0 +1,72 @@
+{
+    "resource": {
+        "id": 1,
+        "name": "root",
+        "title": "كل التصنيفات",
+        "childrens": [
+            {
+                "id": 10,
+                "name": "electronics",
+                "title": "الالكترونيات",
+                "childrens": [
+                    {
+                        "id": 101,
+                        "name": "mobiles-and-accessories",
+                        "title": "الموبايلات وملحقاتها",
+                        "childrens": [
+                            {
+                                "id": 1010,
+                                "name": "cell-phone-accessories",
+                                "title": "ملحقات الموبايلات",
+                                "childrens": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 102,
+                        "name": "laptops-and-accessories",
+                        "title": "اجهزة الكمبيوتر االمحمولة",
+                        "childrens": []
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "name": "fashion",
+                "title": "الأزياء",
+                "childrens": [
+                    {
+                        "id": 202,
+                        "name": "shoes",
+                        "title": "احذيه",
+                        "childrens": []
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "name": "hand-made",
+                "title": "الصناعات الحرفيه",
+                "childrens": []
+            },
+            {
+                "id": 40,
+                "name": "health",
+                "title": "المنتجات الصحية",
+                "childrens": []
+            },
+            {
+                "id": 50,
+                "name": "beauty",
+                "title": "الاناقة والجمال",
+                "childrens": []
+            },
+            {
+                "id": 60,
+                "name": "food",
+                "title": "الاغذية",
+                "childrens": []
+            }
+        ]
+    }
+}
